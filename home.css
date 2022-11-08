@@ -1,0 +1,37 @@
+
+
+
+
+.img-prop{
+    width: 100vw;
+    height: 40vh;
+    background-size: cover;
+
+}
+
+h1{
+    color: black;
+    font-size: 28px;
+
+}
+p{
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+#nav-1{
+    font-size: 20px;
+    color: white;
+}
+
+#nav-2{
+    font-size: 20px;
+    color: white;
+}
+
+#nav-3{
+    font-size: 20px;
+    color: white;
+}
